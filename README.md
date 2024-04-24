@@ -1,27 +1,27 @@
 # OpenRPG
-## The Open source RPG anyone can contribute to.
-> If you want to help the project then contact me on the discord server 
+## Le RPG open source au quel n'importe qui peux contribuer.
+> Si vous voulez contribuer au RPG alors contactez moi sur le serveur Discord™
 
-OpenRPG is a pen and paper RPG like Pathfinder™ and Dungeons & Dragons™ but, anyone can contribute to it !
- You can add:
+OpenRPG est un RPG sur papier comme Pathfinder™ and Dungeons & Dragons™ mais, n'importe qui peux y contribuer !
+ Vous pouvez ajouter:
 ```
-1. rules/statistics (for the balance)
-2. monsters and characters
-3. images and/or descriptions of monsters and/or characters
-4. items and weapons
-5. mechanics
-```
-
-You _cannot_ :
-```
-1. Fork this repository without explicitly saying it's a fork
-2. Make people pay for content of this RPG
+1. règles/statistiques (pour le fairplay)
+2. Monstres et personnages
+3. images et/où descriptions de monstres et/où personnages
+4. objets et armes
+5. mechaniques
 ```
 
-This project is still begining so if you're interested, please contribute !
+Vous _ne pouvez pas_ :
+```
+1. Mettre dans cette repo du contenu généré par IA
+2. Faire des gens payer pour du contenu de cet RPG*
+```
 
-Just Don't Forget to add your name to the contributors file !
+Ce project est encore en train de commencer donc n'hésitez pas à contribuer !
 
-Deadly Carp :)
+N'oubliez pas d'ajouter vôtre nom au fichier des contributeurs
+
+Deadly Carp :D
 
 
