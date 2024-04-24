@@ -1,7 +1,8 @@
 # OpenRPG
 ## The Open source RPG anyone can contribute to.
+> If you want to help the project then contact me on the discord server 
 
-OpenRPG is a pen and paper RPG like Pathfinder™ and Dungeons & Dragons™ but,anyone can contribute to it !
+OpenRPG is a pen and paper RPG like Pathfinder™ and Dungeons & Dragons™ but, anyone can contribute to it !
  You can add:
 ```
 1. rules/statistics (for the balance)
